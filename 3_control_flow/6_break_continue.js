@@ -1,3 +1,7 @@
+/*
+break, continue -> for, while, do while loop
+*/
+
 const numbers = [12, 13, 14, 15, 16];
 
 for (let index = 0; index < numbers.length; index++) {
